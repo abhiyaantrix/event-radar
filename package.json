@@ -39,7 +39,7 @@
     "*.md": "markdownlint --fix"
   },
   "devDependencies": {
-    "@commitlint/cli": "^19.5.0",
+    "@commitlint/cli": "^19.6.1",
     "@commitlint/config-conventional": "^19.5.0",
     "@commitlint/format": "^19.5.0",
     "husky": "^9.1.6",
