@@ -1,4 +1,4 @@
-FROM ruby:3.3.5-alpine
+FROM ruby:3.4.1-alpine
 
 RUN apk --update-cache add --update --virtual build-dependencies alpine-sdk postgresql-dev ruby-dev
 
